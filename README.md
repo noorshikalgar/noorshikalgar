@@ -1,10 +1,9 @@
 ### Hi there, I'm Noormohammed Shikalgar 👋
 
-## I'm a Software Developer!
-- 🔭 I’m currently working on a game called 5SECMATH!
+## I'm a Software Engineer!
+- 🔭 I’m currently working on a personal project
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: To learn more, and to create more
+- 🥅 2026 Goals: To learn more about Agents, AI, Integration, and to create more
 - ⚡ Fun fact: I love to code and watch movies
 
 ### Connect with me:
@@ -17,5 +16,4 @@
 
 
 [twitter]: https://twitter.com/Noormohammed_Sh
-[instagram]: https://www.instagram.com/noorshikalgar7/
 [linkedin]: https://www.linkedin.com/in/noormohammed-shikalgar-42bb68105/
