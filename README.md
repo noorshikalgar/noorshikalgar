@@ -22,8 +22,12 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKzvYatLqyBHRpFG/giphy.gif" width="60"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGN4ajdrdzR2M2I5ZGN2eWNwZHI1NHh4cGJ0aGJzY3lqbG91aWN1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="60"/>
 </div>
+
+---
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGN4ajdrdzR2M2I5ZGN2eWNwZHI1NHh4cGJ0aGJzY3lqbG91aWN1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif
+---
 
 <h1 align="center">Hi there, I'm Noormohammed Shikalgar 👋</h1>
 
