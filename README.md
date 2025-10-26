@@ -1,33 +1,6 @@
-### Hi there, I'm Noormohammed Shikalgar 👋
-
-## I'm a Senior Software Engineer!
-- 🔭 I’m currently working on a personal project
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2026 Goals: To learn more about Agents, AI, Integration, and to create more
-- ⚡ Fun fact: I love to code and watch movies
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-
-[twitter]: https://twitter.com/Noormohammed_Sh
-[linkedin]: https://www.linkedin.com/in/noormohammed-shikalgar-42bb68105/
-
-
-
----
-
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGN4ajdrdzR2M2I5ZGN2eWNwZHI1NHh4cGJ0aGJzY3lqbG91aWN1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="60"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGN4ajdrdzR2M2I5ZGN2eWNwZHI1NHh4cGJ0aGJzY3lqbG91aWN1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
-
----
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGN4ajdrdzR2M2I5ZGN2eWNwZHI1NHh4cGJ0aGJzY3lqbG91aWN1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif
----
 
 <h1 align="center">Hi there, I'm Noormohammed Shikalgar 👋</h1>
 
