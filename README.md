@@ -71,8 +71,8 @@ Here are some of the technologies and tools I frequently work with:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGithubUsername&show_icons=true&theme=radical" alt="Noormohammed's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGithubUsername&theme=radical" alt="Noormohammed's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noorshikalgar&show_icons=true&theme=radical" alt="Noormohammed's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorshikalgar&theme=radical" alt="Noormohammed's GitHub Streak" />
 </div>
 
 ---
